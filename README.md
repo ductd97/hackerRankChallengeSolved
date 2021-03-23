@@ -1,1 +1,1 @@
-This is some HackerRank challenges I solved
+There are some HackerRank challenges I solved
